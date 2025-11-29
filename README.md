@@ -1,6 +1,6 @@
 # **Speckit-plus**
-- It is a cli-based framework capable of running an AI model in it e.g. Gemini, Codex, Claude etc.
-- We install this framework and select the model we want to use for our project.
+- It is a cli-based framework capable of running an AI agent in it e.g. Gemini CLI, Codex, Claude code etc.
+- We install this framework and select the agent we want to use for our project.
 - Speckit-plus is a fork of the original framework known as Speckit from Github.
 
 
